@@ -2,7 +2,7 @@
 this repo includes:
 the Entity Relationship Diagram png 
 
-sql folder with 
+EmployeeSQL folder that contains:
 
 - SQL file used for Data Engineering
 - SQL file used to run querys 
