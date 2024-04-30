@@ -13,29 +13,30 @@ https://app.quickdatabasediagrams.com/#/d/Ms9PRE - to format the erd
 https://www.tutorialspoint.com/sql/sql-composite-key.htm - tutorial on composite keys 
 
 # requirements for completion
-Data Modelling (10 points) 
+
+# Data Modelling (10 points) 
 
 Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
 
 
-Data Engineeing (70 points)
+# Data Engineeing (70 points)
 
-All required columns are defined for each table (10 points)
+-All required columns are defined for each table (10 points)
 
-Columns are set to the correct data type (10 points)
+-Columns are set to the correct data type (10 points)
 
-Primary Keys set for each table (10 points)
+-Primary Keys set for each table (10 points)
 
-Correctly references related tables (10 points)
+-Correctly references related tables (10 points)
 
-Tables are correctly related using Foreign Keys (10 points)
+-Tables are correctly related using Foreign Keys (10 points)
 
-Correctly uses NOT NULL condition on necessary columns (10 points)
+-Correctly uses NOT NULL condition on necessary columns (10 points)
 
-Accurately defines value length for columns (10 points)
+-Accurately defines value length for columns (10 points)
 
 
-Data Analysis (20 points)
+# Data Analysis (20 points)
 
 - List the employee number, last name, first name, sex, and salary of each employee (2 points)
 
